@@ -1,0 +1,7 @@
+#primer-elemento {
+    color: red;
+}
+
+ul > li#primer-elemento {
+    font-size: 2rem;
+}
