@@ -2,6 +2,6 @@
     color: red;
 }
 
-ul > li#primer-elemento {
+ul li#primer-elemento {
     font-size: 2rem;
 }
